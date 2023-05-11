@@ -15,3 +15,8 @@ Pause: Escape
 Attack: Left-Click
 Reload Level: R
 Manually change difficulty: +/-
+
+
+BUG FORM
+If you encounter any problems or bugs with the game feel free to let us know here:
+https://docs.google.com/forms/d/e/1FAIpQLSfyyVHlVvL-W_gG2VjhDUQVRUxUBz23Xs9_-tvgqpVL5voE0A/viewform
