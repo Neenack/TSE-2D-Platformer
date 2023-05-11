@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chance
+  - Tile
+  - Ladder
+  - Trap
+  - LevelGenerator
+  - Walkable
+  - Climbable
+  - Enemy
+  - PlayerChildObjectTag
+  - EnemyProjectile
+  - Door
+  - Projectile
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ladder
+  - Block
+  - Room
+  - Trap
+  - Enemy
+  - Player
+  - Bomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
